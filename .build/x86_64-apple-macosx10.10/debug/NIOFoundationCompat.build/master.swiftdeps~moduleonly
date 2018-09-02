@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
+options: "ad55ee05d148742605592e2e13372eb0"
+build_time: [1535868639, 422884000]
+inputs:
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio.git-8302478515833491924/Sources/NIOFoundationCompat/ByteBuffer-foundation.swift": [1535868619, 0]

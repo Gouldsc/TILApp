@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
+options: "28fd85f82d6bd4c3c1eeffb12a7beb06"
+build_time: [1535868677, 231975000]
+inputs:
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/Sources/App/Models/Acronym.swift": [1535310847, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/Sources/App/app.swift": [1535271169, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/Sources/App/boot.swift": [1535271169, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/Sources/App/configure.swift": [1535310847, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/Sources/App/routes.swift": [1535310765, 0]

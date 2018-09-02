@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
+options: "ff98516f1ce93793d63ed9c4b5271da7"
+build_time: [1535868654, 488785000]
+inputs:
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/routing.git-4559606750803330108/Sources/Routing/Parameter/Parameter.swift": [1535868615, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/routing.git-4559606750803330108/Sources/Routing/Parameter/ParameterValue.swift": [1535868615, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/routing.git-4559606750803330108/Sources/Routing/Parameter/Parameters.swift": [1535868615, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/routing.git-4559606750803330108/Sources/Routing/Register/PathComponent.swift": [1535868615, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/routing.git-4559606750803330108/Sources/Routing/Register/Route.swift": [1535868615, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/routing.git-4559606750803330108/Sources/Routing/Register/RouterOption.swift": [1535868615, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/routing.git-4559606750803330108/Sources/Routing/Routing/RoutableComponent.swift": [1535868615, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/routing.git-4559606750803330108/Sources/Routing/Routing/RouterNode.swift": [1535868615, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/routing.git-4559606750803330108/Sources/Routing/Routing/TrieRouter.swift": [1535868615, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/routing.git-4559606750803330108/Sources/Routing/Utilities/Deprecated.swift": [1535868615, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/routing.git-4559606750803330108/Sources/Routing/Utilities/Exports.swift": [1535868615, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/routing.git-4559606750803330108/Sources/Routing/Utilities/RoutingError.swift": [1535868615, 0]

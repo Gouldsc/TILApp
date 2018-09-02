@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
+options: "9bae0c5c2b2525b5f9ccd223cce3bd36"
+build_time: [1535868639, 419321000]
+inputs:
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio.git-8302478515833491924/Sources/NIOHTTP1/HTTPDecoder.swift": [1535868619, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio.git-8302478515833491924/Sources/NIOHTTP1/HTTPEncoder.swift": [1535868619, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio.git-8302478515833491924/Sources/NIOHTTP1/HTTPPipelineSetup.swift": [1535868619, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio.git-8302478515833491924/Sources/NIOHTTP1/HTTPResponseCompressor.swift": [1535868619, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio.git-8302478515833491924/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift": [1535868619, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio.git-8302478515833491924/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift": [1535868619, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio.git-8302478515833491924/Sources/NIOHTTP1/HTTPTypes.swift": [1535868619, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio.git-8302478515833491924/Sources/NIOHTTP1/HTTPUpgradeHandler.swift": [1535868619, 0]

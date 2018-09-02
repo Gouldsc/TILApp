@@ -1,0 +1,17 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
+options: "dc48679ce740df2aa77c6b24cb11a260"
+build_time: [1535868658, 378577000]
+inputs:
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/crypto.git-794340951339495877/Sources/Crypto/BCrypt/BCryptDigest.swift": [1535868615, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/crypto.git-794340951339495877/Sources/Crypto/Cipher/Cipher.swift": [1535868615, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/crypto.git-794340951339495877/Sources/Crypto/Cipher/CipherAlgorithm.swift": [1535868615, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/crypto.git-794340951339495877/Sources/Crypto/Digest/Digest.swift": [1535868615, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/crypto.git-794340951339495877/Sources/Crypto/Digest/DigestAlgorithm.swift": [1535868615, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/crypto.git-794340951339495877/Sources/Crypto/MAC/HMAC.swift": [1535868615, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/crypto.git-794340951339495877/Sources/Crypto/RSA/RSA.swift": [1535868615, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/crypto.git-794340951339495877/Sources/Crypto/RSA/RSAKey.swift": [1535868615, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/crypto.git-794340951339495877/Sources/Crypto/RSA/RSAPadding.swift": [1535868615, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/crypto.git-794340951339495877/Sources/Crypto/Random/CryptoRandom.swift": [1535868615, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/crypto.git-794340951339495877/Sources/Crypto/Utilities/CryptoError.swift": [1535868615, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/crypto.git-794340951339495877/Sources/Crypto/Utilities/Deprecated.swift": [1535868615, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/crypto.git-794340951339495877/Sources/Crypto/Utilities/Exports.swift": [1535868615, 0]

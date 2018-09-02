@@ -1,0 +1,104 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SQLDropTableBuilder"
+provides-nominal:
+- "3SQL19SQLDropTableBuilderC"
+provides-member:
+- ["3SQL19SQLDropTableBuilderC", ""]
+- ["3SQL13SQLConnectionP", ""]
+- ["3SQL13SQLConnectionP", "drop"]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "SQLConnection"
+- "SQLDropTableBuilder"
+- "SQLQueryBuilder"
+- "SQLTable"
+depends-member:
+- ["11DatabaseKit0A9QueryableP", "Query"]
+- ["11DatabaseKit0A9QueryableP", "SQLDropTableBuilder"]
+- ["11DatabaseKit0A9QueryableP", "SQLTable"]
+- ["11DatabaseKit0A9QueryableP", "Self"]
+- ["3SQL13SQLConnectionP", "Query"]
+- ["3SQL13SQLConnectionP", "SQLDropTableBuilder"]
+- ["3SQL13SQLConnectionP", "SQLTable"]
+- ["3SQL13SQLConnectionP", "Self"]
+- ["3SQL13SQLConnectionP", "drop"]
+- !private ["3SQL12SQLDropTableP", "dropTable"]
+- !private ["3SQL12SQLDropTableP", "ifExists"]
+- ["3SQL19SQLDropTableBuilderC", "Connection"]
+- ["3SQL19SQLDropTableBuilderC", "_Default_Connection"]
+- ["3SQL19SQLDropTableBuilderC", "connection"]
+- ["3SQL19SQLDropTableBuilderC", "deinit"]
+- ["3SQL19SQLDropTableBuilderC", "dropTable"]
+- ["3SQL19SQLDropTableBuilderC", "ifExists"]
+- ["3SQL19SQLDropTableBuilderC", "init"]
+- !private ["3SQL19SQLDropTableBuilderC", "init"]
+- ["3SQL19SQLDropTableBuilderC", "query"]
+- ["3SQL8SQLQueryP", "DropTable"]
+- !private ["3SQL8SQLQueryP", "dropTable"]
+- ["3SQL15SQLQueryBuilderP", "Connection"]
+- ["3SQL15SQLQueryBuilderP", ""]
+- ["3SQL15SQLQueryBuilderP", "_Default_Connection"]
+- ["3SQL15SQLQueryBuilderP", "connection"]
+- !private ["3SQL15SQLQueryBuilderP", "dropTable"]
+- !private ["3SQL15SQLQueryBuilderP", "init"]
+- !private ["3SQL15SQLQueryBuilderP", "init"]
+- ["3SQL15SQLQueryBuilderP", "query"]
+- ["3SQL15SQLSerializableP", "DropTable"]
+- !private ["3SQL15SQLSerializableP", "dropTable"]
+- !private ["3SQL15SQLSerializableP", "ifExists"]
+- !private ["3SQL15SQLSerializableP", "table"]
+- !private ["3SQL18SQLTableIdentifierP", "table"]
+depends-nominal:
+- "11DatabaseKit0A9QueryableP"
+- "3SQL13SQLConnectionP"
+- !private "3SQL12SQLDropTableP"
+- "3SQL19SQLDropTableBuilderC"
+- "3SQL8SQLQueryP"
+- "3SQL15SQLQueryBuilderP"
+- "3SQL15SQLSerializableP"
+- !private "3SQL18SQLTableIdentifierP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIO.swiftmodule"
+- "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Async.swiftmodule"
+- "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.swiftmodule"
+- "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.swiftmodule"
+- "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Debugging.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Bits.swiftmodule"
+- "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOFoundationCompat.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/DatabaseKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio.git-8302478515833491924/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio.git-8302478515833491924/Sources/CNIODarwin/include/c_nio_darwin.h"
+- "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio.git-8302478515833491924/Sources/CNIOAtomics/include/c-atomics.h"
+- "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio.git-8302478515833491924/Sources/CNIOLinux/include/c_nio_linux.h"
+- "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-zlib-support.git--3898881973692020263/module.modulemap"
+- "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/CNIOSHA1.build/module.modulemap"
+- "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/CNIOOpenSSL.build/module.modulemap"
+- "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/CNIOZlib.build/module.modulemap"
+- "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/CNIODarwin.build/module.modulemap"
+- "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/CNIOHTTPParser.build/module.modulemap"
+- "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/CNIOAtomics.build/module.modulemap"
+- "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/CNIOLinux.build/module.modulemap"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "ecf613230b612f7366b265652ad9705c"

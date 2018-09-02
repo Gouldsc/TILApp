@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
+options: "0f65adec9ee4d5440f2e216294079fe6"
+build_time: [1535868629, 186616000]
+inputs:
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/core.git--7666972267369326785/Sources/Debugging/Debuggable.swift": [1535868616, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/core.git--7666972267369326785/Sources/Debugging/Demangler.swift": [1535868616, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/core.git--7666972267369326785/Sources/Debugging/SourceLocation.swift": [1535868616, 0]

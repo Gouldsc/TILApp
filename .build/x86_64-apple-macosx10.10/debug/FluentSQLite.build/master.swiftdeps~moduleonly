@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
+options: "894f7192f516a0320ebc136dbb7fc85d"
+build_time: [1535868676, 35646000]
+inputs:
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/fluent-sqlite.git-4999544098456787160/Sources/FluentSQLite/Exports.swift": [1535868620, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/fluent-sqlite.git-4999544098456787160/Sources/FluentSQLite/FluentSQLiteError.swift": [1535868620, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/fluent-sqlite.git-4999544098456787160/Sources/FluentSQLite/FluentSQLiteProvider.swift": [1535868620, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/fluent-sqlite.git-4999544098456787160/Sources/FluentSQLite/FluentSQLiteQuery.swift": [1535868620, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/fluent-sqlite.git-4999544098456787160/Sources/FluentSQLite/FluentSQLiteSchema.swift": [1535868620, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/fluent-sqlite.git-4999544098456787160/Sources/FluentSQLite/SQLiteDatabase+JoinSupporting.swift": [1535868620, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/fluent-sqlite.git-4999544098456787160/Sources/FluentSQLite/SQLiteDatabase+MigrationSupporting.swift": [1535868620, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/fluent-sqlite.git-4999544098456787160/Sources/FluentSQLite/SQLiteDatabase+QuerySupporting.swift": [1535868620, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/fluent-sqlite.git-4999544098456787160/Sources/FluentSQLite/SQLiteDatabase+SchemaSupporting.swift": [1535868620, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/fluent-sqlite.git-4999544098456787160/Sources/FluentSQLite/SQLiteDatabase+TransactionSupporting.swift": [1535868620, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/fluent-sqlite.git-4999544098456787160/Sources/FluentSQLite/SQLiteModels.swift": [1535868620, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/fluent-sqlite.git-4999544098456787160/Sources/FluentSQLite/SQLiteTypes.swift": [1535868620, 0]

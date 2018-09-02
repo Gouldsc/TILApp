@@ -1,0 +1,83 @@
+{
+  "": {
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/master.swiftdeps"
+  },
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/IdentityVerification.swift": {
+    "dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/IdentityVerification.d",
+    "object": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/IdentityVerification.swift.o",
+    "swiftmodule": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/IdentityVerification~partial.swiftmodule",
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/IdentityVerification.swiftdeps"
+  },
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/OpenSSLClientHandler.swift": {
+    "dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/OpenSSLClientHandler.d",
+    "object": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/OpenSSLClientHandler.swift.o",
+    "swiftmodule": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/OpenSSLClientHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/OpenSSLClientHandler.swiftdeps"
+  },
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/OpenSSLHandler.swift": {
+    "dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/OpenSSLHandler.d",
+    "object": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/OpenSSLHandler.swift.o",
+    "swiftmodule": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/OpenSSLHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/OpenSSLHandler.swiftdeps"
+  },
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/OpenSSLServerHandler.swift": {
+    "dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/OpenSSLServerHandler.d",
+    "object": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/OpenSSLServerHandler.swift.o",
+    "swiftmodule": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/OpenSSLServerHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/OpenSSLServerHandler.swiftdeps"
+  },
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/PosixPort.swift": {
+    "dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/PosixPort.d",
+    "object": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/PosixPort.swift.o",
+    "swiftmodule": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/PosixPort~partial.swiftmodule",
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/PosixPort.swiftdeps"
+  },
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/SSLCertificate.swift": {
+    "dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLCertificate.d",
+    "object": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLCertificate.swift.o",
+    "swiftmodule": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLCertificate~partial.swiftmodule",
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLCertificate.swiftdeps"
+  },
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/SSLConnection.swift": {
+    "dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLConnection.d",
+    "object": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLConnection.swift.o",
+    "swiftmodule": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLConnection~partial.swiftmodule",
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLConnection.swiftdeps"
+  },
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/SSLContext.swift": {
+    "dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLContext.d",
+    "object": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLContext.swift.o",
+    "swiftmodule": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLContext~partial.swiftmodule",
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLContext.swiftdeps"
+  },
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/SSLErrors.swift": {
+    "dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLErrors.d",
+    "object": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLErrors.swift.o",
+    "swiftmodule": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLErrors~partial.swiftmodule",
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLErrors.swiftdeps"
+  },
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/SSLInit.swift": {
+    "dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLInit.d",
+    "object": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLInit.swift.o",
+    "swiftmodule": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLInit~partial.swiftmodule",
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLInit.swiftdeps"
+  },
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/SSLPKCS12Bundle.swift": {
+    "dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPKCS12Bundle.d",
+    "object": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPKCS12Bundle.swift.o",
+    "swiftmodule": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPKCS12Bundle~partial.swiftmodule",
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPKCS12Bundle.swiftdeps"
+  },
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/SSLPrivateKey.swift": {
+    "dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPrivateKey.d",
+    "object": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPrivateKey.swift.o",
+    "swiftmodule": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPrivateKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/SSLPrivateKey.swiftdeps"
+  },
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/TLSConfiguration.swift": {
+    "dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/TLSConfiguration.d",
+    "object": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/TLSConfiguration.swift.o",
+    "swiftmodule": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/TLSConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.build/TLSConfiguration.swiftdeps"
+  }
+}

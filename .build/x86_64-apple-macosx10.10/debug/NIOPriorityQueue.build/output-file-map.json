@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/master.swiftdeps"
+  },
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio.git-8302478515833491924/Sources/NIOPriorityQueue/Heap.swift": {
+    "dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/Heap.d",
+    "object": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/Heap.swift.o",
+    "swiftmodule": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/Heap~partial.swiftmodule",
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/Heap.swiftdeps"
+  },
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio.git-8302478515833491924/Sources/NIOPriorityQueue/PriorityQueue.swift": {
+    "dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/PriorityQueue.d",
+    "object": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/PriorityQueue.swift.o",
+    "swiftmodule": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/PriorityQueue~partial.swiftmodule",
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOPriorityQueue.build/PriorityQueue.swiftdeps"
+  }
+}

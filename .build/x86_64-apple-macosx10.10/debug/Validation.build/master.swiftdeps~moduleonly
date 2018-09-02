@@ -1,0 +1,20 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
+options: "7fd743a3e0ad01a6a1716d070528905b"
+build_time: [1535868649, 818575000]
+inputs:
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/validation.git--5106108159790471031/Sources/Validation/Exports.swift": [1535868617, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/validation.git--5106108159790471031/Sources/Validation/Validatable.swift": [1535868617, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/validation.git--5106108159790471031/Sources/Validation/ValidationError.swift": [1535868617, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/validation.git--5106108159790471031/Sources/Validation/Validations.swift": [1535868617, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/validation.git--5106108159790471031/Sources/Validation/Validator.swift": [1535868617, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/validation.git--5106108159790471031/Sources/Validation/ValidatorType.swift": [1535868617, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/validation.git--5106108159790471031/Sources/Validation/Validators/AndValidator.swift": [1535868617, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/validation.git--5106108159790471031/Sources/Validation/Validators/CharacterSetValidator.swift": [1535868617, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/validation.git--5106108159790471031/Sources/Validation/Validators/CountValidator.swift": [1535868617, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/validation.git--5106108159790471031/Sources/Validation/Validators/EmailValidator.swift": [1535868617, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/validation.git--5106108159790471031/Sources/Validation/Validators/InValidator.swift": [1535868617, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/validation.git--5106108159790471031/Sources/Validation/Validators/NilIgnoringValidator.swift": [1535868617, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/validation.git--5106108159790471031/Sources/Validation/Validators/NilValidator.swift": [1535868617, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/validation.git--5106108159790471031/Sources/Validation/Validators/NotValidator.swift": [1535868617, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/validation.git--5106108159790471031/Sources/Validation/Validators/OrValidator.swift": [1535868617, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/validation.git--5106108159790471031/Sources/Validation/Validators/RangeValidator.swift": [1535868617, 0]

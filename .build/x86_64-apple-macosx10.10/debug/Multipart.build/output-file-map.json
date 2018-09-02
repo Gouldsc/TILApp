@@ -1,0 +1,53 @@
+{
+  "": {
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/master.swiftdeps"
+  },
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/multipart.git--5564760821894220002/Sources/Multipart/Exports.swift": {
+    "dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/Exports.d",
+    "object": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/Exports.swift.o",
+    "swiftmodule": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/Exports.swiftdeps"
+  },
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/multipart.git--5564760821894220002/Sources/Multipart/FormDataDecoder.swift": {
+    "dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/FormDataDecoder.d",
+    "object": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/FormDataDecoder.swift.o",
+    "swiftmodule": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/FormDataDecoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/FormDataDecoder.swiftdeps"
+  },
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/multipart.git--5564760821894220002/Sources/Multipart/FormDataEncoder.swift": {
+    "dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/FormDataEncoder.d",
+    "object": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/FormDataEncoder.swift.o",
+    "swiftmodule": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/FormDataEncoder~partial.swiftmodule",
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/FormDataEncoder.swiftdeps"
+  },
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/multipart.git--5564760821894220002/Sources/Multipart/MultipartError.swift": {
+    "dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/MultipartError.d",
+    "object": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/MultipartError.swift.o",
+    "swiftmodule": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/MultipartError~partial.swiftmodule",
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/MultipartError.swiftdeps"
+  },
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/multipart.git--5564760821894220002/Sources/Multipart/MultipartParser.swift": {
+    "dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/MultipartParser.d",
+    "object": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/MultipartParser.swift.o",
+    "swiftmodule": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/MultipartParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/MultipartParser.swiftdeps"
+  },
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/multipart.git--5564760821894220002/Sources/Multipart/MultipartPart.swift": {
+    "dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/MultipartPart.d",
+    "object": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/MultipartPart.swift.o",
+    "swiftmodule": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/MultipartPart~partial.swiftmodule",
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/MultipartPart.swiftdeps"
+  },
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/multipart.git--5564760821894220002/Sources/Multipart/MultipartPartConvertible.swift": {
+    "dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/MultipartPartConvertible.d",
+    "object": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/MultipartPartConvertible.swift.o",
+    "swiftmodule": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/MultipartPartConvertible~partial.swiftmodule",
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/MultipartPartConvertible.swiftdeps"
+  },
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/multipart.git--5564760821894220002/Sources/Multipart/MultipartSerializer.swift": {
+    "dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/MultipartSerializer.d",
+    "object": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/MultipartSerializer.swift.o",
+    "swiftmodule": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/MultipartSerializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Multipart.build/MultipartSerializer.swiftdeps"
+  }
+}

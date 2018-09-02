@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.build/master.swiftdeps"
+  },
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/core.git--7666972267369326785/Sources/COperatingSystem/libc.swift": {
+    "dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.build/libc.d",
+    "object": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.build/libc.swift.o",
+    "swiftmodule": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.build/libc~partial.swiftmodule",
+    "swift-dependencies": "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/COperatingSystem.build/libc.swiftdeps"
+  }
+}

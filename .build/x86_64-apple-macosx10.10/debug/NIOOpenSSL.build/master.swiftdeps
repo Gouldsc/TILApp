@@ -1,0 +1,17 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
+options: "f1cf55f76ef961029586ec9f4caf52cb"
+build_time: [1535868642, 19099000]
+inputs:
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/IdentityVerification.swift": [1535868616, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/OpenSSLClientHandler.swift": [1535868616, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/OpenSSLHandler.swift": [1535868616, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/OpenSSLServerHandler.swift": [1535868616, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/PosixPort.swift": [1535868616, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/SSLCertificate.swift": [1535868616, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/SSLConnection.swift": [1535868616, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/SSLContext.swift": [1535868616, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/SSLErrors.swift": [1535868616, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/SSLInit.swift": [1535868616, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/SSLPKCS12Bundle.swift": [1535868616, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/SSLPrivateKey.swift": [1535868616, 0]
+  "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio-ssl.git-9220241876993183299/Sources/NIOOpenSSL/TLSConfiguration.swift": [1535868616, 0]
