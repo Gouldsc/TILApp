@@ -1,4 +1,4 @@
 module CNIOZlib {
-    umbrella "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio.git-1027871708063884382/Sources/CNIOZlib/include"
+    umbrella "/Users/scottgould/Documents/Programming/Vapor/TILApp/.build/checkouts/swift-nio.git-8302478515833491924/Sources/CNIOZlib/include"
     export *
 }
